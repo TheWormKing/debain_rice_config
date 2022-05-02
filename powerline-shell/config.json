@@ -1,0 +1,12 @@
+{
+  "segments": [
+    "virtual_env",
+    "time",
+    "ssh",
+    "cwd",
+    "git",
+    "hg",
+    "jobs"
+  ],
+  "theme": "/home/wormking/.config/powerline-shell/theme.py"
+}
